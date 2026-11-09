@@ -45,7 +45,7 @@ Open to opportunities across Germany, including:
 ## 📫 Connect With Me
 
 - **GitHub:** https://github.com/KanikeThriveni
-- **LinkedIn:** Add your LinkedIn profile URL here
+- **LinkedIn:** https://www.linkedin.com/in/thrivenikanike/
 
 ---
 *Focused on delivering scalable, secure, and business-driven digital solutions.*
